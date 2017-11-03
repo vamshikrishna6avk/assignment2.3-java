@@ -1,0 +1,11 @@
+JIT(JUST-IN-TIME):
+                  JIT is a integral component of the java virtual machine,along with the garbage collector.
+                  Garbage Collector:it is a program which runs on jvm which gets rid of objects which are not been used by java application.
+                  JIT compiles parts of the byte code that have similar functionality at the same time it reduces the  time needed for compilation.                    Byte code:it is compiled format for java programs.
+                  JIT compiler improves the performance of java applications at run time,also improves performance of java programms.
+                  It requires processor time and memory usage.
+                  JIT compiler runs after the programme has started and compiles the code.
+                  JIT compiler access to dynamic run time environment where as other standard compilers wont.
+                  It is often used with interpreted code to convert it to machine language.
+                  JIT is a part of JVM(java virtual machine).
+                  JVM:JVM is responsible to execute program line by line.
